@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Git Test</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+    </head>
+
+    <body>  
+    <ul>
+        <li>sync git test</li>
+        <li>1 저장소</li>
+        <li>2 버전</li>
+        <li>3 introduce git 깃이란</li>
+        <li>4 Branch</li>
+        <li>4 브랜치 추가</li>
+        <li>충돌</li>
+        <li>충돌해결</li>
+        <li>원격저장소</li>
+        <li>원격저장소 사용하기</li>
+        <li>push</li>
+        <li>pull</li>
+        <li>push git test</li>
+        <li>push git test you</li>
+        <li>충돌 git test 충돌 git test you</li>
+        <li>충돌 main</li>
+        
+<<<<<<< Updated upstream
+        <li>스테시</li>
+=======
+        <li>Git - stash test 1 2 3</li>
+>>>>>>> Stashed changes
+    </ul>    
+    </body>
+</html>
